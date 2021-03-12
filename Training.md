@@ -20,3 +20,7 @@ https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ
 
 <h5>YouTube Javascript, GitHub</h5>
 https://www.youtube.com/user/shiffman
+
+<h3>Atom Editor</h3>
+https://flight-manual.atom.io/getting-started/
+

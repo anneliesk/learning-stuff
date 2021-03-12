@@ -24,3 +24,5 @@ https://www.youtube.com/user/shiffman
 <h3>Atom Editor</h3>
 https://flight-manual.atom.io/getting-started/
 
+<h3>JavaScript</h3>
+https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/What_is_JavaScript
